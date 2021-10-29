@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+h1 {
+	
+	color: darkgreen; font: georgia; text-align: center; 
+		
+}
+
+h2{
+	
+	font: georgia; text-align: center; 
+	
+}
+
+
+p{
+	
+	line-height: 25px;
+	
+	
+}
+
+a {
+   text-decoration:none;
+}
+
+a:hover {
+   text-decoration:underline;
+}
+
+label{
+	
+	text-transform: uppercase
+}
+
+img {
+    float: left;
+}
+
+
+/* CSS Document */
+
